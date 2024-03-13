@@ -83,11 +83,11 @@ Click on dates to view orders due for delivery on that day.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(317).png?raw=true)
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(318).png?raw=true)
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(319).png?raw=true)
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(320).png?raw=true)
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(321).png?raw=true)
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(322).png?raw=true)
-![App Screenshot](https://github.com/Adarsh877/entnt1/blob/main/Screenshots/Screenshot%20(323).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(317).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(318).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(319).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(320).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(321).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(322).png?raw=true)
+![App Screenshot](https://github.com/Adarsh877/Project/blob/main/Screenshots/Screenshot%20(323).png?raw=true)
 
