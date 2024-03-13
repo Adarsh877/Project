@@ -1,0 +1,73 @@
+.product-management {
+  font-family: Arial, sans-serif;
+  max-width: 800px; /* Increased max-width */
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px; /* Adjusted font size */
+}
+
+.product-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  margin-bottom: 10px;
+  padding: 12px; /* Increased padding */
+  font-size: 16px; /* Adjusted font size */
+}
+
+button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.product-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex; /* Displaying product items horizontally */
+  flex-wrap: wrap; /* Wrap items if they overflow */
+  justify-content: space-between; /* Add space between items */
+}
+
+.product-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  animation: fadeIn 0.5s ease-in-out;
+  width: calc(33.33% - 20px); /* Adjust width for three items in a row */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.product-item button {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  width: 100%; /* Make button width 100% */
+}
+
+.product-item button:hover {
+  background-color: #c82333;
+}
